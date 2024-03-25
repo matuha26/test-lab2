@@ -1,9 +1,3 @@
-[![CI/CD GitHub Actions](https://github.com/Samvel228/P-test/actions/workflows/python-app.yml/badge.svg)](https://github.com/Samvel228/P-test/actions/workflows/python-app.yml)
-[![Coverage Status](https://coveralls.io/repos/Samvel228/P-test/badge.svg?branch=main)](https://coveralls.io/github/Samvel228/P-test?branch=main)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=Samvel228_P-test&metric=alert_status)](https://sonarcloud.io/dashboard?id=Samvel228_P-test)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Samvel228_P-test&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Samvel228_P-test)
-[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=Samvel228_P-test&metric=code_smells)](https://sonarcloud.io/dashboard?id=Samvel228_P-test)
-
 # План тестирования
 
 ## Атестационное тестирование:  
