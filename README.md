@@ -99,6 +99,7 @@
 
 ## Интеграционное тестирование:
 
+
 #### Тест И1:
 Методы: FlashcardDeck.study_flashcards(), Flashcard.check_similarity(user_answer, threshold=0.6):  
 Описание: Проверяем взаимодействие метода study_flashcards класса FlashcardDeck с методом check_similarity класса Flashcard.  
