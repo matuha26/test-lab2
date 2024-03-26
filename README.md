@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/matuha26/test-lab2/badge.svg?branch=main)](https://coveralls.io/github/matuha26/test-lab2?branch=main)
+
+
 # План тестирования
 
 ## Атестационное тестирование:  
